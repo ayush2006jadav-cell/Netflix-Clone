@@ -286,6 +286,7 @@ input {
     background-color: #2d2d2d;
     font-size: 23px;
     padding: 25px;
+    cursor: pointer;
 }
 
 .faqbox:hover {
