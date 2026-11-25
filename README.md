@@ -34,15 +34,10 @@ The project helped me improve my understanding of:
 
 📸 Preview
 
-«Add screenshots of your project here.»
-
-![Netflix Clone Preview]
-(screenshots/1.png)
-(screenshots/2.png)
-(screenshots/3.png)
-(screenshots/4.png)
-(screenshots/5.png)
-
+![Netflix Clone Preview](Screenshots/1.png)
+![Netflix Clone Preview](Screenshots/2.png)
+![Netflix Clone Preview](Screenshots/3.png)
+![Netflix Clone Preview](Screenshots/4.png)
 
 📂 Project Structure
 
